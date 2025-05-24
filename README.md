@@ -30,7 +30,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&pause=100000&center=true&vCenter=true&multiline=true&width=600&lines=GitHub+Stats)](https://git.io/typing-svg)
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 24px; padding-top: 30px; flex-wrap: nowrap; max-width: 700px; margin: 0 auto;">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 24px; flex-wrap: nowrap; max-width: 700px; margin: 0 auto;">
   <div style="border-radius: 16px; box-shadow: 0 6px 18px rgba(0, 173, 181, 0.35); overflow: hidden;">
     <img
       src="https://github-readme-streak-stats.herokuapp.com?user=Daffariandhika&theme=radical&hide_border=true"
