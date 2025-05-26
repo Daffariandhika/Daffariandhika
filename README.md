@@ -28,8 +28,6 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 
 </div>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&pause=100000&center=true&vCenter=true&multiline=true&width=600&lines=GitHub+Stats)](https://git.io/typing-svg)
 
 <div align="center" style="max-width: 900px; margin: 0 auto; display: flex; flex-direction: column; align-items: center; gap: 24px;">
   <div style="display: flex; gap: 24px; flex-wrap: wrap; justify-content: center;">
