@@ -29,6 +29,8 @@
 
 </div>
 
+---
+
 <div align="center" style="max-width: 900px; margin: 0 auto; display: flex; flex-direction: column; align-items: center; gap: 24px;">
   <div style="display: flex; gap: 24px; flex-wrap: wrap; justify-content: center;">
     <img
