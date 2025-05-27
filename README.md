@@ -1,8 +1,7 @@
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&pause=100000&center=true&vCenter=true&multiline=true&width=600&lines=Hello%2C+I'm+Daffa+Riandhika" 
-
----
   
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=28&pause=100000&center=true&vCenter=true&multiline=true&width=600&lines=Hello%2C+I'm+Daffa+Riandhika">
+
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px auto; max-width: 900px;">
 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -26,18 +25,18 @@
     <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" alt="Railway" />
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </div>
-<br />
+
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 24px; max-width: 1000px; margin: 30px auto;">
     <img
       src="https://streak-stats.demolab.com?user=Daffariandhika&theme=chartreuse-dark&hide_border=true"
       alt="GitHub Streak"
-      height="180"
+      height="140"
       style="border-radius: 12px; box-shadow: 0 6px 18px rgba(0, 173, 181, 0.35);"
     />
     <img
       src="https://github-readme-stats.vercel.app/api?username=Daffariandhika&show_icons=true&rank_icon=github&include_all_commits=true&theme=chartreuse-dark&hide_border=true"
       alt="GitHub Stats"
-      height="180"
+      height="140"
       style="border-radius: 12px; box-shadow: 0 6px 18px rgba(0, 173, 181, 0.35);"
     />
   </div>
