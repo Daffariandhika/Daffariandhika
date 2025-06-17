@@ -35,12 +35,6 @@
       height="140"
       style="border-radius: 12px; box-shadow: 0 6px 18px rgba(0, 173, 181, 0.35);"
     />
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=Daffariandhika&show_icons=true&rank_icon=github&include_all_commits=true&theme=chartreuse-dark&hide_border=true"
-      alt="GitHub Stats"
-      height="140"
-      style="border-radius: 12px; box-shadow: 0 6px 18px rgba(0, 173, 181, 0.35);"
-    />
   </div>
 
 </div>
