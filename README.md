@@ -1,8 +1,8 @@
 <div align="center">
   
-<sub><i>“Learning by Listening? That’s Cute. I'm Riandhika btw”</i></sub> 
+<h5><i>“Learning by Listening? That’s Cute.” </i>I'm Riandhika btw, a self-taught MERN stack developer</h5> 
 
-<br/>
+<sub>Stuff I Actually Know How to Use (Mostly)</sub>
   
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
@@ -28,6 +28,8 @@
 
 <br/>
 
+<sub>My GitHub Grind, Where I Pretend to Be Productive</sub>
+
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 24px; max-width: 1000px; margin: 30px auto;">
     <img
       src="https://streak-stats.demolab.com?user=Daffariandhika&theme=chartreuse-dark&hide_border=true"
@@ -41,11 +43,19 @@
       height="140"
       style="border-radius: 12px; box-shadow: 0 6px 18px rgba(0, 173, 181, 0.35);"
     />
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=Daffariandhika&theme=juicyfresh&no-bg=true&no-frame=true"
+      alt="GitHub Throphy"
+      height="100"
+      style="border-radius: 12px; box-shadow: 0 6px 18px rgba(0, 173, 181, 0.35);"
+    />
   </div>
 
-  <br/>
+<br/>
+
+<sub>Portfolio & Contact – Because society told me I need one.</sub>
   
-[![Portfolio](https://img.shields.io/badge/Portofolio-%23000000.svg?logo=vercel&logoColor=white)](https://bio-portfolio-five.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://bio-portfolio-five.vercel.app)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:muhammaddaffariandhika@gmail.com)
 
 <div align="center">
@@ -54,4 +64,7 @@
   <sub>— Tyler Durden</sub>
 </div>
 
+<br/>
+
+![](https://api.visitorbadge.io/api/VisitorHit?user=Daffariandhika&repo=github-visitors-badge&countColor=%234ea94b&labelColor=%23404d59)
 </div>
