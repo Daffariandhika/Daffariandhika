@@ -34,13 +34,21 @@
     <img
       src="https://streak-stats.demolab.com?user=Daffariandhika&theme=chartreuse-dark&hide_border=true"
       alt="GitHub Streak"
-      height="140"
+      height="180"
+      width="300"
       style="border-radius: 12px; box-shadow: 0 6px 18px rgba(0, 173, 181, 0.35);"
     />
     <img
       src="https://github-readme-stats.vercel.app/api?username=Daffariandhika&theme=chartreuse-dark&hide_border=true&hide=contribs&rank_icon=github&include_all_commits=true&show=prs_merged_percentage&hide_title=true&show_icons=true&"
+      alt="GitHub Stats"
+      height="180"
+      width="340"
+      style="border-radius: 12px; box-shadow: 0 6px 18px rgba(0, 173, 181, 0.35);"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daffariandhika&size_weight=1&count_weight=1&theme=chartreuse-dark&hide_border=true"
       alt="GitHub Streak"
-      height="140"
+      height="180"
       style="border-radius: 12px; box-shadow: 0 6px 18px rgba(0, 173, 181, 0.35);"
     />
     <img
