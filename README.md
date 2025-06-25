@@ -21,9 +21,11 @@
   <img src="https://img.shields.io/badge/Cloudinary-0089D6?logo=Cloudinary&logoColor=white" />
   <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff" />
   <img src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-0089D6?logo=Docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Railway-000000.svg?logo=railway&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-FF6C37.svg?logo=git&logoColor=white" />
 </div>
 
 <br/>
@@ -34,21 +36,13 @@
     <img
       src="https://streak-stats.demolab.com?user=Daffariandhika&theme=chartreuse-dark&hide_border=true"
       alt="GitHub Streak"
-      height="180"
-      width="300"
+      height="140"
       style="border-radius: 12px; box-shadow: 0 6px 18px rgba(0, 173, 181, 0.35);"
     />
     <img
-      src="https://github-readme-stats.vercel.app/api?username=Daffariandhika&theme=chartreuse-dark&hide_border=true&hide=contribs&rank_icon=github&include_all_commits=true&show=prs_merged_percentage&hide_title=true&show_icons=true&"
-      alt="GitHub Stats"
-      height="180"
-      width="340"
-      style="border-radius: 12px; box-shadow: 0 6px 18px rgba(0, 173, 181, 0.35);"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daffariandhika&size_weight=1&count_weight=1&theme=chartreuse-dark&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daffariandhika&layout=compact&size_weight=0.3&count_weight=0.3&hide=css,html&theme=chartreuse-dark&hide_border=true&hide_title=true"
       alt="GitHub Streak"
-      height="180"
+      height="140"
       style="border-radius: 12px; box-shadow: 0 6px 18px rgba(0, 173, 181, 0.35);"
     />
     <img
