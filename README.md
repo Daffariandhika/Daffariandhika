@@ -1,7 +1,5 @@
 <div align="center">
   
-<sub>Portfolio & Contact</sub>
-  
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel&logoColor=white)](https://daffariandhika.vercel.app)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:muhammaddaffariandhika@gmail.com)
 
